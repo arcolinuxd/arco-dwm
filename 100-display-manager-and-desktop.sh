@@ -57,7 +57,8 @@ thunar-volman
 xfce4-terminal
 arcolinux-xfce-git
 arcolinux-local-xfce4-git
-arco-dwm
+arcolinux-dwm-git
+arcolinux-dwm-slstatus-git
 )
 
 count=0
