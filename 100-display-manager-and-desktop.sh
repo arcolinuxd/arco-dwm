@@ -59,6 +59,9 @@ arcolinux-xfce-git
 arcolinux-local-xfce4-git
 arcolinux-dwm-git
 arcolinux-dwm-slstatus-git
+dmenu
+sxhkd
+feh
 )
 
 count=0
