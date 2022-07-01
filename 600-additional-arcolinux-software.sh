@@ -56,7 +56,7 @@ func_category Arcolinux-Desktop
 
 list=(
 arcolinux-dwm-dconf-git
-arcolinux-config-dwm-git
+arcolinux-config-all-desktops-git
 )
 
 count=0
