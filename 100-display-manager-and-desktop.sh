@@ -57,7 +57,7 @@ arcolinux-xfce-git
 arcolinux-local-xfce4-git
 arcolinux-dwm-git
 arcolinux-dwm-slstatus-git
-arcolinux-logout-git
+archlinux-logout-git
 dmenu
 sxhkd
 feh
